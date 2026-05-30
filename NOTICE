@@ -1,0 +1,19 @@
+Sign.page
+
+Copyright (c) 2026 alberthodo
+
+## Open-source software (MIT)
+
+Application source in `src/` is licensed under the MIT License. See [LICENSE](LICENSE).
+
+## Branding assets (proprietary)
+
+Files in `public/branding/` are **not** open source. All rights reserved.
+
+You may **not** copy, modify, redistribute, or use these assets in other
+products, forks, or marketing without explicit written permission.
+
+**Installers:** You may use included branding to run the app for your own
+business. Replace assets for white-label deployments.
+
+Questions: see [SECURITY.md](SECURITY.md).

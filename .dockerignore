@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+README.md
+docs
+coverage
+.DS_Store
+*.md
+!package.json
+!package-lock.json
